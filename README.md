@@ -2,7 +2,7 @@
 - 👀 I’m interested in data -- data analysis, science, engineering, etc.
 - 📫 Reach out to me on LinkedIn: https://www.linkedin.com/in/ken-wronka/
 
-Check out my data science portfolio: (#TODO)
+Check out my data science portfolio: https://kenwronka.github.io/data_science_portfolio/
 
 
 
